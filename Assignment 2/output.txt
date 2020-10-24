@@ -1,0 +1,22 @@
+Using Locally Weighted Linear Regression for Tau = 5e-05
+Mean absolute percentage error is : [5.40731848]
+
+Using scaled batch gradient with regularisation
+Initial coefficients: 
+[0, 0, 0, 0]
+Final coefficients are:
+[5037.585668619078, 11147.667574879839, 10378.580439168689, 22647.298983883848]
+Mean absolute percentage error is : 19.92701396456417
+
+Using Stochastic gradient with regularisation
+Initial coefficients: 
+[0, 0, 0, 0]
+Final coefficients are:
+[68977.37183533033, 153.6672368058788, 622.1158811423422, 207.34938918615728]
+Mean absolute percentage error is : 22.392602067246287
+
+Using Scaled Minibatch gradient with regularisation for batch size = 20
+Final coefficients are:
+[888.9201243627547, 5168.211726125255, 17701.360814619125, 15202.387873756412]
+Mean absolute percentage error is : 19.550681895981263
+
