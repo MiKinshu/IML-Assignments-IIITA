@@ -156,7 +156,7 @@ y = []
 maxAccuracy = -1
 minAccuracy = 101
 
-for i in range(1, 160):
+for i in range(160, 161):
 	faceVector = getFaceVector(root, ratio, variants, imagesInEachVarient, totalPixels)
 	eigenValues, eigenVectors, meanFaceVector, norFaceVector = getEigenVectors(faceVector)
 	weights, eigenFaces = getKEigenVectors(eigenVectors, k = i)
@@ -165,6 +165,8 @@ for i in range(1, 160):
 	y.append(accuracy)
 	maxAccuracy = max(maxAccuracy, accuracy)
 	minAccuracy = min(minAccuracy, accuracy)
+	if i % 20 == 0:
+		print(accuracy)
 
 # plotting the points  
 plt.plot(x, y)
