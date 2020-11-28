@@ -1,0 +1,18 @@
+Decision tree problems need to solve by hand and as well as code.
+
+Dataset link: https://drive.google.com/drive/folders/1--1GH3uU8uQ2eABVvNg6_-8eFDXn-IbW
+
+Problem 1
+
+Consider two features, age and heart disease to  create a decision tree with gini impurity.
+
+Problem 2
+
+Consider two features, slope and heart disease to create a decision tree with Information gain.
+
+
+Deadline: 10/Nov/2020
+
+
+All the best 
+
