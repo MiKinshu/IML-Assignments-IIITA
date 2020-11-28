@@ -1,0 +1,13 @@
+Hello Everyone, Please find the assignment on BAM.
+
+A Bidirectional Associative Memory(BAM)  is required to store the following  M =4 pairs of patterns:
+
+Set A:  X1 =[1 1 1 1 1 1 ]T,  X2 =[-1 -1 -1 -1 -1 -1 ]T, X3 =[1 -1 -1 1 1 1 ]T, X4 =[1 1 -1 -1 -1 -1 ]T
+
+Set B:  Y1=[1 1 1]T, Y2=[-1 -1 -1]T, Y3=[-1 1 1]T, Y4=[1 -1 1]T
+
+Using BAM algorithm, train a W matrix for BAM which can retrieve all the above mentioned 4 pairs. 
+
+Hence test the level of weight corrections of the BAM with examples.
+
+Deadline: 04/11/2020

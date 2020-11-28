@@ -1,0 +1,14 @@
+Consider a Kohonen network with 100 neurons arranged in the form of a two-dimensional lattice with 10 rows and 10 columns . 
+
+The network is required to classify two-dimensional input vectors such that each neuron in the network should respond only to the input vectors occurring in its region. 
+
+Train the network with 1500 two-dimensional input vectors generated randomly in a square region in the interval between -1 and +1. Select initial synaptic weights randomly in the same interval  (-1 and +1  ) and take the learning rate parameter α is equal to 0.1.
+
+Test the performance of the self organizing neurons using the following
+
+Input vectors:
+
+X1=[0.1  0.8]T,  X2=[0.5  -0.2]T, X3=[-0.8  -0.9]T, X4=[-0.0.6  0.9]T.
+
+
+Deadline: 15/Nov/2020 (It will be consider in C3 evaluation)

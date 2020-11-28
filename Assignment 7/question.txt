@@ -1,0 +1,6 @@
+Hello Everyone, Please find the assignments on ANN
+
+    Implement Perceptron training algorithms for AND, OR, NAND and NOR gates.
+    How will you verify your trained algorithms? Justify your solution.
+
+Deadline: 20/Oct/2020

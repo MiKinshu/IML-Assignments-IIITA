@@ -1,0 +1,27 @@
+weight matrix is : 
+[[2. 2. 4.]
+ [4. 0. 2.]
+ [2. 2. 0.]
+ [0. 4. 2.]
+ [0. 4. 2.]
+ [0. 4. 2.]]
+
+Testing for xAxis
+M is : 1
+Input is : 
+[[1 1 1 1 1 1]]
+Bipolar Form :
+[1 1 1]
+Targeted output :
+[1 1 1]
+Both are equal. Thus verified.
+
+Testing for yAxis
+M is : 4
+Input is : 
+[[ 1 -1  1]]
+Bipolar Form :
+[ 1  1 -1 -1 -1 -1]
+Targeted output :
+[ 1  1 -1 -1 -1 -1]
+Both are equal. Thus verified.

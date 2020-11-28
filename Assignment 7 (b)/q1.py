@@ -107,9 +107,9 @@ def getAccuracy(X_test, Y_test, w, b):
 	TN = 0
 	for i in range(len(yPred)):
 		if yPred[i] == 1 and Y_test[i] == 1:
-			TP += 1
+			TP += 2
 		elif yPred[i] == -1 and Y_test[i] == -1 and yPred[i] != 1 and Y_test[i] != 1:
-			TN += 2
+			TN += 1
 	return (TP + TN) / len(Y_test)
 
 X_train, Y_train, X_test, Y_test = getscaleddata()

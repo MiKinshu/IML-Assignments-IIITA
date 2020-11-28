@@ -1,0 +1,16 @@
+Input : [0.1, 0.8]
+Minimum Euclidian distance : 0.4714237029497092
+Cluster : (5, 0)
+
+Input : [0.5, -0.2]
+Minimum Euclidian distance : 0.024759624288057173
+Cluster : (9, 6)
+
+Input : [-0.8, -0.9]
+Minimum Euclidian distance : 0.6789229477748178
+Cluster : (0, 9)
+
+Input : [-0.06, 0.9]
+Minimum Euclidian distance : 0.569886013621598
+Cluster : (2, 0)
+

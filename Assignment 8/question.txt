@@ -1,0 +1,7 @@
+Hello Everyone, Please find the assignment on Back Propagation.
+
+    Using two inputs and one output X-NOR data, train a Neural Network using Back Propagation Algorithm. Don't use any built in function for Back Propagation. Also explain how you will test the network
+
+
+Deadline: 22/Oct/2020
+
